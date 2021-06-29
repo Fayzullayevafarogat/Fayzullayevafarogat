@@ -1,0 +1,25 @@
+body{
+   background-image: url('./img/bg.png');
+   background-color: blue;
+   header{
+       background-color: blue;
+   }
+}
+i{
+   
+    color: #52BFFF;
+}
+ul{
+    li{
+        margin-right: 30px;
+    }
+    option{
+        font-size: 15px ;
+    }
+    select{
+        font-size: 5px;
+    }
+    span{
+        font-size: 5px !important;
+    }
+}
